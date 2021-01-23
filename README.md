@@ -77,9 +77,11 @@ My name is Anton Ödman and I am a Software Developer from Sweden, currently wor
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=flat-square&logo=google-cloud&logoColor=white"/>
 
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-%232C5263.svg?&style=flat-square&logo=jenkins&logoColor=white"/>
-
-
 </p>
+
+## My posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **banjo/banjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
