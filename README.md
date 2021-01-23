@@ -2,7 +2,6 @@
 
 My name is Anton Ödman and I am a Software Developer from Sweden, currently working at **Autocom Diagnostic Partner AB**.
 
-## Social
 
 <p>
   <a href="https://www.twitter.com/banjoanton"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
@@ -14,7 +13,9 @@ My name is Anton Ödman and I am a Software Developer from Sweden, currently wor
   <a href="https://www.banjocode.com"><img src="https://img.shields.io/badge/BANJOCODE-%23343A40?style=for-the-badge&logo=hugo" height=25></a>
 </p>
 
-## Languages I have used
+## :computer: Technologies
+Technologies I have used to some extension, both in work related as well as private projects.
+#### Languages
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
@@ -34,7 +35,7 @@ My name is Anton Ödman and I am a Software Developer from Sweden, currently wor
 
 </p>
 
-## Technologies I have used
+#### Frameworks and tools
 
 <p>
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>
@@ -79,21 +80,7 @@ My name is Anton Ödman and I am a Software Developer from Sweden, currently wor
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-%232C5263.svg?&style=flat-square&logo=jenkins&logoColor=white"/>
 </p>
 
-## My posts
+## :memo: My latest posts
+I keep some guides and tutorials of things I need to remember at my [blog](https://www.banjocode.com), here are some of the latest articles:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<!--
-**banjo/banjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
