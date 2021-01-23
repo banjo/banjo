@@ -83,4 +83,9 @@ Technologies I have used to some extension, both in work related as well as priv
 ## :memo: My latest posts
 I keep some guides and tutorials of things I need to remember at my [blog](https://www.banjocode.com), here are some of the latest articles:
 <!-- BLOG-POST-LIST:START -->
+- [Fetch Multiple Urls at The Same Time](https://www.banjocode.com/fetch-multiple-urls-same-time/)
+- [Save Output to a Variable in a Bash Script](https://www.banjocode.com/save-output-variable-bash/)
+- [See if a Package Exists in a Bash Script](https://www.banjocode.com/package-exists-bash/)
+- [See if You Run a Bash Script in WSL](https://www.banjocode.com/see-if-wsl-bash/)
+- [Loop Through Arrays in Bash](https://www.banjocode.com/loop-array-bash/)
 <!-- BLOG-POST-LIST:END -->
