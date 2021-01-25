@@ -15,7 +15,9 @@ My name is Anton Ödman and I am a Software Developer from Sweden, currently wor
 
 ## :computer: Technologies
 Technologies I have used to some extension, both in work related as well as private projects.
-#### Languages
+
+<details>
+<summary style="margin-bottom: 10px; font-weight: bold;" >Languages</summary>
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
@@ -35,7 +37,12 @@ Technologies I have used to some extension, both in work related as well as priv
 
 </p>
 
-#### Frameworks and tools
+</details>
+
+
+<details>
+<summary style="margin-bottom: 10px; font-weight: bold;" >Frameworks and tools</summary>
+
 
 <p>
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>
@@ -79,6 +86,47 @@ Technologies I have used to some extension, both in work related as well as priv
 
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-%232C5263.svg?&style=flat-square&logo=jenkins&logoColor=white"/>
 </p>
+
+</details>
+
+## :pushpin: My projects
+Some of my projects.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" style="margin: 10px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=plex-web" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=feber-enhancer" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=color-saver" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=padel" />
+</a>
+
+## :mortar_board: Education
+I'm a self-taught developer, so here are some courses I have taken.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" style="margin: 10px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=cs50" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" style="margin: 10px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=fullstackopen2019" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" style="margin: 10px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=java-mooc-part1" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" style="margin: 10px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=java-mooc-part2" />
+</a>
+
 
 ## :memo: My latest posts
 I keep some guides and tutorials of things I need to remember at my [blog](https://www.banjocode.com), here are some of the latest articles:
