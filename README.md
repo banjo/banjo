@@ -92,28 +92,32 @@ Technologies I have used to some extension, both in work related as well as priv
 ## :pushpin: My projects
 Some of my projects.
 
-<div style="margin: 10px; display: inline-block">
+<div style="display: flex; flex-wrap: wrap;"> 
+
+<div style="margin: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=plex-web" />
     </a>
 </div>
 
-<div style="margin: 10px; display: inline-block">
+<div style="margin: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=feber-enhancer" />
     </a>
 </div>
 
-<div style="margin: 10px; display: inline-block">
+<div style="margin: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=color-saver" />
     </a>
 </div>
 
-<div style="margin: 10px; display: inline-block">
+<div style="margin: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=padel" />
     </a>
+</div>
+
 </div>
 
 ## :mortar_board: Education
