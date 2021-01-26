@@ -92,38 +92,38 @@ Technologies I have used to some extension, both in work related as well as priv
 ## :pushpin: My projects
 Some of my projects.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/banjo/plex-web">
   <img align="center" class="m-2"  src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=plex-web" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/banjo/feber-enhancer">
   <img align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=feber-enhancer" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/banjo/color-saver">
   <img align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=color-saver" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/banjo/padel">
   <img align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=padel" />
 </a>
 
 ## :mortar_board: Education
 I'm a self-taught developer, so here are some courses I have taken.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/banjo/cs50">
   <img align="center" style="margin: 10px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=cs50" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/banjo/fullstackopen2019">
   <img align="center" style="margin: 10px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=fullstackopen2019" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/banjo/java-mooc-part1">
   <img align="center" style="margin: 10px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=java-mooc-part1" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/banjo/java-mooc-part2">
   <img align="center" style="margin: 10px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=java-mooc-part2" />
 </a>
 
