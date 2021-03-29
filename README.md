@@ -131,9 +131,9 @@ I'm a self-taught developer, so here are some courses I have taken.
 ## :memo: My latest posts
 I keep some guides and tutorials of things I need to remember at my [blog](https://www.banjocode.com), here are some of the latest articles:
 <!-- BLOG-POST-LIST:START -->
+- [Full Width Container in Limited Width Parent](https://www.banjocode.com/full-width-container-limited-parent/)
 - [Find Files in Directories in Bash](https://www.banjocode.com/find-files-in-directories/)
 - [Clean Your Git History With Git Fixup](https://www.banjocode.com/git-fixup/)
 - [Fetch Multiple Urls at The Same Time](https://www.banjocode.com/fetch-multiple-urls-same-time/)
 - [Save Output to a Variable in a Bash Script](https://www.banjocode.com/save-output-variable-bash/)
-- [See if a Package Exists in a Bash Script](https://www.banjocode.com/package-exists-bash/)
 <!-- BLOG-POST-LIST:END -->
