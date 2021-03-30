@@ -131,9 +131,9 @@ I'm a self-taught developer, so here are some courses I have taken.
 ## :memo: My latest posts
 I keep some guides and tutorials of things I need to remember at my [blog](https://www.banjocode.com), here are some of the latest articles:
 <!-- BLOG-POST-LIST:START -->
-- [How To Allow Remote Access To Your Localhost Apps With Ngrok (Vue, React, Angular)](https://www.banjocode.com/remote-access-localhost-ngrok/)
-- [How to Color Your Terminal Text in Bash](https://www.banjocode.com/coloring-terminal-text/)
-- [Full Width Container in Limited Width Parent](https://www.banjocode.com/full-width-container-limited-parent/)
-- [Find Files in Directories in Bash](https://www.banjocode.com/find-files-in-directories/)
-- [Clean Your Git History With Git Fixup](https://www.banjocode.com/git-fixup/)
+- [How To Allow Remote Access To Your Localhost Apps With Ngrok (Vue, React, Angular)](https://www.banjocode.com/post/tools/remote-access-localhost-ngrok/)
+- [How to Color Your Terminal Text in Bash](https://www.banjocode.com/post/bash/coloring-terminal-text/)
+- [Full Width Container in Limited Width Parent](https://www.banjocode.com/post/css/full-width-container-limited-parent/)
+- [Find Files in Directories in Bash](https://www.banjocode.com/post/bash/find-files-in-directories/)
+- [Clean Your Git History With Git Fixup](https://www.banjocode.com/post/git/git-fixup/)
 <!-- BLOG-POST-LIST:END -->
