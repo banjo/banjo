@@ -1,6 +1,6 @@
 # Hello 👋
 
-My name is Anton Ödman and I am a Software Developer from Sweden, currently working at **Autocom Diagnostic Partner AB**.
+My name is Anton Ödman and I am a Software Developer from Sweden, currently working at **Autocom Diagnostic Partner AB**. I write programming articles for [**Better Programming**](https://betterprogramming.pub/) and at [my blog](https://www.banjocode.com/). 
 
 
 <p>
