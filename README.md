@@ -131,9 +131,9 @@ I'm a self-taught developer, so here are some courses I have taken.
 ## :memo: My latest posts
 I keep some guides and tutorials of things I need to remember at my [blog](https://www.banjocode.com), here are some of the latest articles:
 <!-- BLOG-POST-LIST:START -->
+- [Bash Essentials To Create Useful Automation Scripts](https://www.banjocode.com/post/bash/bash-essentials/)
 - [Setup a Remote Development Environment with Linux and VS Code](https://www.banjocode.com/post/tools/remote-development-linux-vscode/)
 - [How To Setup a Linux (Ubuntu) Server On Hetzner](https://www.banjocode.com/post/hosting/setup-server-hetzner/)
 - [Replace Text or a String in Bash](https://www.banjocode.com/post/bash/replace-text-bash/)
 - [How To Allow Remote Access To Your Localhost Apps With Ngrok](https://www.banjocode.com/post/tools/remote-access-localhost-ngrok/)
-- [How to Color Your Terminal Text in Bash](https://www.banjocode.com/post/bash/coloring-terminal-text/)
 <!-- BLOG-POST-LIST:END -->
