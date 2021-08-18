@@ -96,7 +96,7 @@ Some of my projects.
   <img align="center" class="m-2"  src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=plex-web" />
 </a>
 
-<a href="https://github.com/banjo/padel">
+<a href="https://github.com/banjo/regcode">
   <img align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=banjo&repo=regcode" />
 </a>
 
