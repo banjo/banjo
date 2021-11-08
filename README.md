@@ -134,6 +134,6 @@ I keep some guides and tutorials of things I need to remember at my [blog](https
 - [Get Started With Awk in Bash](https://www.banjocode.com/post/bash/get-started-with-awk/)
 - [Bash Essentials To Create Useful Automation Scripts](https://www.banjocode.com/post/bash/bash-essentials/)
 - [Setup a Remote Development Environment with Linux and VS Code](https://www.banjocode.com/post/tools/remote-development-linux-vscode/)
-- [How To Setup a Linux (Ubuntu) Server On Hetzner](https://www.banjocode.com/post/hosting/setup-server-hetzner/)
+- [How To Setup a Linux &lpar;Ubuntu&rpar; Server On Hetzner](https://www.banjocode.com/post/hosting/setup-server-hetzner/)
 - [Replace Text or a String in Bash](https://www.banjocode.com/post/bash/replace-text-bash/)
 <!-- BLOG-POST-LIST:END -->
