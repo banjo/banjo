@@ -1,6 +1,6 @@
 # Hello 👋
 
-My name is Anton Ödman and I am a Software Developer from Sweden, currently working at **Autocom Diagnostic Partner AB**. I write programming articles for [**Better Programming**](https://betterprogramming.pub/) and at [my blog](https://www.banjocode.com/). You can visit my [portfolio](https://www.banjoanton.com) if you want.
+My name is Anton Ödman and I am a Software Developer from Sweden, currently working as a consultant at **Layer 10**. I write programming articles for [**Better Programming**](https://betterprogramming.pub/) and at [my blog](https://www.banjocode.com/). You can visit my [portfolio](https://www.banjoanton.com) if you want.
 
 
 <p>
