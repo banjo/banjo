@@ -131,9 +131,9 @@ I'm a self-taught developer, so here are some courses I have taken.
 ## :memo: My latest posts
 I keep some guides and tutorials of things I need to remember at my [blog](https://www.banjocode.com), here are some of the latest articles:
 <!-- BLOG-POST-LIST:START -->
+- [Change from HTTPS to SSH in a Git Repo](https://www.banjocode.com/post/git/from-https-to-ssh/)
 - [How To Backup a Remote PostgreSQL Database and Run it Locally With Docker](https://www.banjocode.com/post/postgresql/backup-locally/)
 - [Get Started With Awk in Bash](https://www.banjocode.com/post/bash/get-started-with-awk/)
 - [Bash Essentials To Create Useful Automation Scripts](https://www.banjocode.com/post/bash/bash-essentials/)
 - [Setup a Remote Development Environment with Linux and VS Code](https://www.banjocode.com/post/tools/remote-development-linux-vscode/)
-- [How To Setup a Linux &lpar;Ubuntu&rpar; Server On Hetzner](https://www.banjocode.com/post/hosting/setup-server-hetzner/)
 <!-- BLOG-POST-LIST:END -->
