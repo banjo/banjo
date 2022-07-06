@@ -131,9 +131,9 @@ I'm a self-taught developer, so here are some courses I have taken.
 ## :memo: My latest posts
 I keep some guides and tutorials of things I need to remember at my [blog](https://www.banjocode.com), here are some of the latest articles:
 <!-- BLOG-POST-LIST:START -->
-- [How To Add A Client Side Only Library To SvelteKit](https://www.banjocode.com/post/svelte/client-side-library/)
-- [How To Run Prettier On Changed Files Only With a One Liner](https://www.banjocode.com/post/git/prettier-on-changed-files/)
-- [Iterate Over An Array With The Modulo Operator](https://www.banjocode.com/post/javascript/iterate-array-with-modulo/)
-- [How To Get the Inferred TypeScript Types From VS Code](https://www.banjocode.com/post/tools/inferred-vs-code-type/)
-- [Change from HTTPS to SSH in a Git Repo](https://www.banjocode.com/post/git/from-https-to-ssh/)
+- [How To Add A Client Side Only Library To SvelteKit](https://www.banjocode.com/posts/client-side-library)
+- [How To Run Prettier On Changed Files Only With a One Liner](https://www.banjocode.com/posts/prettier-on-changed-files)
+- [Iterate Over An Array With The Modulo Operator](https://www.banjocode.com/posts/iterate-array-with-modulo)
+- [How To Get the Inferred TypeScript Types From VS Code](https://www.banjocode.com/posts/inferred-vs-code-type)
+- [Change from HTTPS to SSH in a Git Repo](https://www.banjocode.com/posts/from-https-to-ssh)
 <!-- BLOG-POST-LIST:END -->
