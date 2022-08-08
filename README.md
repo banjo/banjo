@@ -19,5 +19,5 @@ I keep some guides and tutorials of things I need to remember at my [blog](https
 - [Remove Images That Are Not Found using HTML](https://www.banjocode.com/post/html/remove-broken-image)
 - [A Persistent Svelte Store With Localstorage](https://www.banjocode.com/post/svelte/store-with-localstorage)
 - [How To Add A Client Side Only Library To SvelteKit](https://www.banjocode.com/post/svelte/client-side-library)
-- [How To Run Prettier On Changed Files Only With a One Liner](https://www.banjocode.com/post/git/prettier-on-changed-files)
+- [How To Run Prettier On Changed Files Only](https://www.banjocode.com/post/git/prettier-on-changed-files)
 <!-- BLOG-POST-LIST:END -->
