@@ -15,9 +15,9 @@ My name is Anton Ödman and I am a self-taught Software Developer from Sweden, c
 ## :memo: My latest posts
 I keep some guides and tutorials of things I need to remember at my [blog](https://www.banjocode.com), here are some of the latest articles:
 <!-- BLOG-POST-LIST:START -->
+- [Align All Text On The Same Vertical Line Responsively Using Flow Layout](https://www.banjocode.com/post/css/flow-layout-with-text-aligned)
 - [How To Use Custom &lpar;Local&rpar; Fonts with Tailwind CSS](https://www.banjocode.com/post/tailwind/custom-local-fonts)
 - [Remove Images That Are Not Found using HTML](https://www.banjocode.com/post/html/remove-broken-image)
 - [A Persistent Svelte Store With Localstorage](https://www.banjocode.com/post/svelte/store-with-localstorage)
 - [How To Add A Client Side Only Library To SvelteKit](https://www.banjocode.com/post/svelte/client-side-library)
-- [How To Run Prettier On Changed Files Only](https://www.banjocode.com/post/git/prettier-on-changed-files)
 <!-- BLOG-POST-LIST:END -->
