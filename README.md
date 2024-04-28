@@ -15,9 +15,9 @@ My name is Anton Ödman and I am a self-taught Software Developer from Sweden, c
 ## :memo: My latest posts
 I keep some guides and tutorials of things I need to remember at my [blog](https://www.banjocode.com), here are some of the latest articles:
 <!-- BLOG-POST-LIST:START -->
-- [Nesting Rounded Corners in CSS](https://astro-nano-demo.vercel.app/post/css/nesting-rounded-corners/)
-- [Intercepting a Fetch Request](https://astro-nano-demo.vercel.app/post/javascript/intercept-fetch-request/)
-- [Convert a SVG file to PNG and serve it in Express](https://astro-nano-demo.vercel.app/post/node/return-png-express/)
-- [A Simple Hook for React Context](https://astro-nano-demo.vercel.app/post/react/hook-for-react-context/)
-- [My Custom Svelte Boop Component](https://astro-nano-demo.vercel.app/post/svelte/my-custom-svelte-boop-component/)
+- [Nesting Rounded Corners in CSS](https://banjocode.com/post/css/nesting-rounded-corners/)
+- [Intercepting a Fetch Request](https://banjocode.com/post/javascript/intercept-fetch-request/)
+- [Convert a SVG file to PNG and serve it in Express](https://banjocode.com/post/node/return-png-express/)
+- [A Simple Hook for React Context](https://banjocode.com/post/react/hook-for-react-context/)
+- [My Custom Svelte Boop Component](https://banjocode.com/post/svelte/my-custom-svelte-boop-component/)
 <!-- BLOG-POST-LIST:END -->
