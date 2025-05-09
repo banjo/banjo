@@ -15,9 +15,9 @@ My name is Anton Ödman and I am a self-taught Software Developer from Sweden, c
 ## :memo: My latest posts
 I keep some guides and tutorials of things I need to remember at my [blog](https://www.banjocode.com), here are some of the latest articles:
 <!-- BLOG-POST-LIST:START -->
+- [Unpacking Node.js Memory - From Raw Bytes to Usable Data](https://banjocode.com/post/node/node-memory-basics/)
 - [How to Debug Node with TypeScript in Neovim](https://banjocode.com/post/nvim/debug-node/)
 - [Nesting Rounded Corners in CSS](https://banjocode.com/post/css/nesting-rounded-corners/)
 - [Intercepting a Fetch Request](https://banjocode.com/post/javascript/intercept-fetch-request/)
 - [Convert a SVG File to PNG and Serve It in Express](https://banjocode.com/post/node/return-png-express/)
-- [A Simple Hook for React Context](https://banjocode.com/post/react/hook-for-react-context/)
 <!-- BLOG-POST-LIST:END -->
